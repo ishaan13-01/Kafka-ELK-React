@@ -1,4 +1,4 @@
-# Kafka-ELK-React
+
 ### Hi there 👋, I am [ishaan Miglani](https://rusty-sj.github.io/)! 😁
 <!--
 **rusty-sj/rusty-sj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
